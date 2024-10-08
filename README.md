@@ -1,2 +1,3 @@
-# subfuzion-deno-developer-group-silicon-valley
-Deno Developer Group - Silicon Valley
+# Deno Developer Group - Silicon Valley
+
+
